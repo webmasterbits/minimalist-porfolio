@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="design" horiz-adv-x="1000" >
+<font-face font-family="design" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="note-beamed" unicode="&#xe800;" d="M206 714l534 116 0-704q2-42-30-81t-86-59q-64-24-110-8t-62 64q-18 48 7 97t85 73q52 20 106 10l0 376-354-82 0-490q0-42-32-81t-86-59q-64-22-109-7t-61 63q-18 48 6 97t84 73q54 20 108 10l0 592z" horiz-adv-x="740" />
+
+<glyph glyph-name="picture" unicode="&#xe801;" d="M856 518l-100 0-124 150-214-150-180 0q-52 0-90-39t-38-91l0-160-108 296q-10 38 22 52l680 248q36 10 50-24z m106-90q16 0 27-12t11-28l0-472q0-16-11-28t-27-12l-724 0q-16 0-27 12t-11 28l0 472q0 16 11 28t27 12l724 0z m-56-452l0 162-72 160-166-60-130-132-138 170-92-214 0-86 598 0z" horiz-adv-x="1000" />
+
+<glyph glyph-name="map" unicode="&#xe802;" d="M984 600q16-10 16-30l0-584q0-20-16-30-8-6-16-6t-18 6l-216 136-216-136q-18-10-34 0l-218 136-216-136q-16-10-34 0-16 10-16 30l0 584q0 20 16 30l234 146q18 10 34 0l216-136 218 136q16 10 32 0z m-750-450l0 506-168-104 0-506z m234-104l0 506-168 104 0-506z m234 104l0 506-170-104 0-506z m232-104l0 506-168 104 0-506z" horiz-adv-x="1000" />
+
+<glyph glyph-name="chat" unicode="&#xe803;" d="M290 240l350 0q2 0 6 2l4 0 0-92q0-40-29-70t-71-30l-250 0-150-150 0 150-50 0q-40 0-70 30t-30 70l0 300q0 42 30 71t70 29l190 0 0-310z m610 560q42 0 71-29t29-71l0-300q0-40-29-70t-71-30l-50 0 0-150-150 150-350 0 0 400q0 42 30 71t70 29l450 0z" horiz-adv-x="1000" />
+
+<glyph glyph-name="lamp" unicode="&#xe804;" d="M209-110l0 104 282 0 0-104q-70-42-142-40-70-2-140 40z m276 164l-270 0q0 72-36 140t-78 113-74 112-26 139q8 120 94 206t254 86q170 0 255-86t95-206q4-60-16-113t-52-96-65-85-57-96-24-114z m-378 496q-4-4 0-20t2-20 5-19 6-18 8-18 11-19 13-19 14-19 15-21 16-23q88-122 112-212l82 0q24 94 112 212 4 6 25 35t25 36 17 29 16 33 6 28 1 35q-16 196-244 196-226 0-242-196z" horiz-adv-x="700" />
+
+<glyph glyph-name="flash" unicode="&#xe805;" d="M40-100q-4 4 35 94t79 182 38 98-94 45-98 55q-4 12 84 120t180 209 96 97q6-4-74-186t-78-186 95-43 97-57q4-20-174-227t-186-201z" horiz-adv-x="400" />
+</font>
+</defs>
+</svg>
