@@ -1,5 +1,5 @@
-# Whitespace Minimalist One-Page Portfolio Template
-A responsive portfolio template with minimalist style.
+# Minimalist Portfolio Template
+Whitespace is a responsive portfolio template with minimalist style.
 
 Live Preview: https://whitespace.webmasterbits.com
 
